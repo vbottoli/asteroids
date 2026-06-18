@@ -1,1 +1,1 @@
-Asteroids game. Have fun playing!
+Asteroids game. Happy gaming!
